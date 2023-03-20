@@ -10,6 +10,8 @@ export default function Home() {
       <Head>
 	  <meta name="google-site-verification" content="xi3LCXwzZC7EdFskSZTQQP_YI5UMeAm2URVqQkPGc_4" />
         <title>Renter Point Car Rental in Dubai - carrentaldubai.netlify.app/</title>
+	  <meta name="description" content="Renting a car in Dubai can be a great way to explore this vibrant city. Whether you're planning on renting for a few days, weeks or months.">
+
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
