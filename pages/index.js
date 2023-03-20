@@ -12,8 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="RENTER POINT" />
+    <h2>The Complete Guide to Car Rental in Dubai</h2>
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          
         </p>
       </main>
 
