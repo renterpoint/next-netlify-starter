@@ -65,6 +65,31 @@ export default function Home() {
         <p className="description">
     Be sure to read through any rental agreements carefully before signing them. Pay close attention to the insurance coverage that is available; specific rental companies may differ in their offerings and rules. Many companies provide optional policies that can cover you for third-party liabilities, damages or theft of the vehicle, and personal injury. Make sure you’re confident that you have the necessary insurance needed to cover your needs before signing on.
         </p>
+	 <h2>The Most Popular Cars to Rent for Everyday Use</h2>
+	  <p className="description">
+	  Looking for a reliable car to rent for your vacation or business trip? We've put together a list of the top-rated cars for everyday use, so you can find the perfect ride without breaking the bank. Read on to learn more about what models offer great value and top performance.
+	  </p>
+	 <h3>Toyota Corolla</h3>
+	   <p className="description">
+	  One of the most popular cars to rent is the Toyota Corolla. The Corolla is a reliable, practical car that offers plenty of features, including power windows, cruise control and touchscreen media display, along with excellent fuel economy. It also has solid safety ratings, so you can feel confident every time you hit the road. Plus, its comfortable interior makes it great for family trips.
+	  </p>
+	  <h3>Nissan Altima</h3>
+	  <p className="description">The Nissan Altima is another top-rated car for everyday use. This model offers impressive performance, thanks to its powerful engine that produces up to 188 horsepower. It also has plenty of features, including a touchscreen infotainment system, wireless device charging and a sunroof. Plus, its comfortable interior comes with adjustable ergonomically designed driver and passenger seats, so you can find the perfect fit every time you get behind the wheel.</p>
+	  
+	  <h3>Honda Civic</h3>
+	   <p className="description">
+	  For those looking for a reliable ride, the Honda Civic is an excellent choice when it comes to car rentals. It offers an attractive exterior design, with sleek lines that give it a contemporary look. Its interiors come with plenty of features, including dual-zone climate control, keyless entry and ample cargo room. Most importantly, the Honda Civic has a well-deserved reputation as one of the most reliable cars on the road. So if you're looking to rent a car for everyday use without any major worries about breakdowns or safety problems, the Honda Civic is a great option.
+	  </p>
+	  
+	  <h3>Ford Focus</h3>
+	    <p className="description">
+	  Another popular option when it comes to car rentals is the Ford Focus. This model offers an impressive balance of power and performance, combining a muscular engine with agile handling. It also comes with plenty of safety features such as automatic emergency braking, lane departure warning and adaptive cruise control. Inside, you'll enjoy nice amenities that include comfortable seating, a great infotainment system and even a built-in Wi-Fi hotspot. Overall, the Ford Focus is an excellent choice whether you're looking for long-distance adventures or everyday commuting needs.
+	  </p>
+	  
+	  <h3>Mazda 3</h3>
+	   <p className="description">
+	  The Mazda 3 is a great choice for those looking for an economical car rental option but don't want to sacrifice quality. This agile yet reliable sedan comes with a powerful engine, dynamic handling, and responsive brakes that make driving it an enjoyable experience. Inside the cabin, you'll enjoy comfortable seating and an easy-to-use infotainment system. The Mazda 3 also includes plenty of safety features such as forward-collision warning and automatic emergency braking for added peace of mind.
+	  </p>
     <a href="https://www.google.com/url?q=https://renterpoint.com/luxury">https://www.google.com/url?q=https://renterpoint.com/luxury</a>
     
    
