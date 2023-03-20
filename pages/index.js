@@ -13,7 +13,7 @@ export default function Home() {
     </div>
 
       <main>
-    <div style="padding:40px" className="container">
+    <div style="padding:40px; margin-top:300px" className="container">
         <Header title="RENTER POINT" />
     <h2>The Complete Guide to Car Rental in Dubai</h2>
         <p className="description">
