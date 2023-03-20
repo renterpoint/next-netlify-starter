@@ -18,7 +18,6 @@ main {
   justify-content: center;
   align-items: center;
     padding:40px;
-  margin-top:300px;
 }
 
 code {
@@ -29,11 +28,10 @@ code {
 }
 
 .container {
-  height: 100vh;
+
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding:40px;
-  margin-top:300px;
+
 }
