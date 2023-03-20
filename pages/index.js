@@ -6,11 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Renter Point Car Rental in Dubai - renterpoint.netlify.app</title>
         <link rel="icon" href="/favicon.ico" />
+  
       </Head>
+    </div>
 
       <main>
+    <div className="container">
         <Header title="RENTER POINT" />
     <h2>The Complete Guide to Car Rental in Dubai</h2>
         <p className="description">
@@ -37,10 +40,10 @@ export default function Home() {
     </p>
     
     <a href="https://www.google.com/url?q=https://renterpoint.com/luxury">https://www.google.com/url?q=https://renterpoint.com/luxury</a>
-    
+      </div>
     </main>
 
       <Footer />
-    </div>
+ 
   )
 }
