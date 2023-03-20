@@ -9,7 +9,7 @@ export default function Home() {
 	   <div className="col-md-12">
       <Head>
 	  <meta name="google-site-verification" content="xi3LCXwzZC7EdFskSZTQQP_YI5UMeAm2URVqQkPGc_4" />
-        <title>Next.js Starter!</title>
+        <title>Renter Point Car Rental in Dubai - carrentaldubai.netlify.app/</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
