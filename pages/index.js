@@ -5,6 +5,8 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     <div className="container">
+	   <div className="row">
+	   <div className="col-md-12">
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
@@ -66,5 +68,7 @@ export default function Home() {
 
       <Footer />
     </div>
+	      </div>
+	      </div>
   )
 }
