@@ -12,9 +12,9 @@ export default function Home() {
   
       </Head>
     </div>
-
+<div className="container">
       <main>
-    <div style="padding:40px; margin-top:300px" className="container">
+
     <div className="row">
     <div className="col-md-12">
         <Header title="RENTER POINT" />
@@ -67,9 +67,9 @@ export default function Home() {
     <a href="https://www.google.com/url?q=https://renterpoint.com/luxury">https://www.google.com/url?q=https://renterpoint.com/luxury</a>
       </div>
      </div>
-     </div>
+   
     </main>
-
+  </div>
       <Footer />
  
   )
