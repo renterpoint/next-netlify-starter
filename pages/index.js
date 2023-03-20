@@ -15,6 +15,8 @@ export default function Home() {
 
       <main>
     <div style="padding:40px; margin-top:300px" className="container">
+    <div className="row">
+    <div className="col-md-12">
         <Header title="RENTER POINT" />
     <h2>The Complete Guide to Car Rental in Dubai</h2>
         <p className="description">
@@ -64,6 +66,8 @@ export default function Home() {
         </p>
     <a href="https://www.google.com/url?q=https://renterpoint.com/luxury">https://www.google.com/url?q=https://renterpoint.com/luxury</a>
       </div>
+     </div>
+     </div>
     </main>
 
       <Footer />
