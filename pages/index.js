@@ -1,4 +1,4 @@
-import Head from 'next/head'
+	  import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 
@@ -6,13 +6,10 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-  
-        <title>Renter Point Car Rental in Dubai - renterpoint.netlify</title>
+        <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
-  
       </Head>
-    </div>
-<div className="container">
+
       <main>
 
         <Header title="RENTER POINT" />
@@ -65,9 +62,9 @@ export default function Home() {
     <a href="https://www.google.com/url?q=https://renterpoint.com/luxury">https://www.google.com/url?q=https://renterpoint.com/luxury</a>
     
    
-    </main>
- 
+	  </main>
+
       <Footer />
-  </div>
+    </div>
   )
 }
