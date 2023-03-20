@@ -13,7 +13,7 @@ export default function Home() {
         <title>Renter Point Car Rental in Dubai - carrentaldubai.netlify.app/</title>
 	
 
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://renterpoint.com/assets/images/favicon-icon/apple-touch-icon-72-precomposed.png" />
       </Head>
 
       <main>
