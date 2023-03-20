@@ -15,8 +15,6 @@ export default function Home() {
 <div className="container">
       <main>
 
-    <div className="row">
-    <div className="col-md-12">
         <Header title="RENTER POINT" />
     <h2>The Complete Guide to Car Rental in Dubai</h2>
         <p className="description">
@@ -65,12 +63,11 @@ export default function Home() {
     Be sure to read through any rental agreements carefully before signing them. Pay close attention to the insurance coverage that is available; specific rental companies may differ in their offerings and rules. Many companies provide optional policies that can cover you for third-party liabilities, damages or theft of the vehicle, and personal injury. Make sure you’re confident that you have the necessary insurance needed to cover your needs before signing on.
         </p>
     <a href="https://www.google.com/url?q=https://renterpoint.com/luxury">https://www.google.com/url?q=https://renterpoint.com/luxury</a>
-      </div>
-     </div>
+    
    
     </main>
-  </div>
-      <Footer />
  
+      <Footer />
+  </div>
   )
 }
