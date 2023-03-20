@@ -4,7 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div style="margin-top:300px; padding:40px;" className="container">
+    <div className="container">
 	   <div className="row">
 	   <div className="col-md-12">
       <Head>
