@@ -21,7 +21,7 @@ export default function Home() {
         <Header title="RENTER POINT" />
 	  
     <h2>Car Rental in Dubai</h2>
-	  <img src="public/Lamborghini-URUS-Rental-Dubai.jpg">
+	  <img src="/public/Lamborghini-URUS-Rental-Dubai.jpg">
         <p className="description">
           Discover how to get the best out of your car rental experience in Dubai! Check out our top tips for a stress-free and successful car rental journey. 
         </p>
