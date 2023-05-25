@@ -19,6 +19,9 @@ export default function Home() {
       <main>
 
         <Header title="RENTER POINT" />
+	  
+	  <img src="https://renterpoint.com/cdn-cgi/image/format=auto/img/Ford-Mustang-GT-Rental-Dubai.jpg">
+	  
     <h2>The Complete Guide to Car Rental in Dubai</h2>
         <p className="description">
           Discover how to get the best out of your car rental experience in Dubai! Check out our top tips for a stress-free and successful car rental journey. 
